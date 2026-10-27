@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "donn-chan"
+    },
+    "records": {
+        "A": ["@", "216.198.79.1"],
+        "TXT": ["_vercel", "vc-domain-verify=donn.is-a.dev,0e751892420baa48562c"],
+        "CNAME": ["www", "714e153dc4f6355a.vercel-dns-017.com."],
+        "TXT": ["_vercel", "vc-domain-verify=www.donn.is-a.dev,67ba855616a3d417db32"]
+    }
+}
